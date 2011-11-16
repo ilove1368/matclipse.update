@@ -6,7 +6,7 @@
    <feature url="features/org.eclipselabs.matclipse.feature_0.5.0.201111161122.jar" id="org.eclipselabs.matclipse.feature">
       <category name="org.eclipselabs.matclipse.category"/>
    </feature>
-   <feature url="features/org.eclipselabs.matclipse.win32.feature_0.5.0.201111161122.jar" id="org.eclipselabs.matclipse.win32.feature">
+   <feature url="features/org.eclipselabs.matclipse.win32.feature_0.5.0.201111161122.jar" id="org.eclipselabs.matclipse.win32.feature" os="win32" ws="win32">
       <category name="org.eclipselabs.matclipse.category"/>
    </feature>
    <category-def name="org.eclipselabs.matclipse.category" label="Matclipse"/>
