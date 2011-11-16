@@ -3,10 +3,10 @@
    <description name="Matclipse Update Site">
       A plugin to interact with Matlab(r)
    </description>
-   <feature url="features/org.eclipselabs.matclipse.feature_0.5.0.201111161122.jar" id="org.eclipselabs.matclipse.feature" version="0.5.0.201111161122">
+   <feature url="features/org.eclipselabs.matclipse.feature_0.5.0.201111161122.jar" id="org.eclipselabs.matclipse.feature">
       <category name="org.eclipselabs.matclipse.category"/>
    </feature>
-   <feature url="features/org.eclipselabs.matclipse.win32.feature_0.5.0.201111161122.jar" id="org.eclipselabs.matclipse.win32.feature" version="0.5.0.201111161122" os="win32" ws="">
+   <feature url="features/org.eclipselabs.matclipse.win32.feature_0.5.0.201111161122.jar" id="org.eclipselabs.matclipse.win32.feature">
       <category name="org.eclipselabs.matclipse.category"/>
    </feature>
    <category-def name="org.eclipselabs.matclipse.category" label="Matclipse"/>
